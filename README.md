@@ -1,4 +1,4 @@
-**UART-wand**
+**UART-wand** //
 It is an open-source, ultra-compact USB-to-Serial converter. It uses the CH340E IC to provide a stable asynchronous serial interface (UART) via a USB-C connector.
 
 This design is ideal for developers working with ESP8266, ESP32, Arduino Pro Mini, or any system requiring a serial console where space is limited.

@@ -1,0 +1,38 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.50",
+    "c_para": {
+      "pre": "D?",
+      "name": "NSR0320MW2T1G",
+      "package": "SOD-323_L1.8-W1.3-LS2.5-RD",
+      "Supplier": "LCSC",
+      "Manufacturer": "onsemi(安森美)",
+      "Manufacturer Part": "NSR0320MW2T1G",
+      "Supplier Part": "C48192",
+      "JLCPCB Part Class": "Extended Part"
+    },
+    "x": 5,
+    "y": 0,
+    "puuid": "dd3cfd4941c4479cb7f2c598e6fde06c",
+    "uuid": "d9ffc0d3433410e083ddbbbfe2049903",
+    "utime": 1713116982,
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~5~0",
+  "shape": [
+    "P~show~0~2~25~0~0~gge7~0^^25~0^^M 25 0 h -15~#880000^^0~7~3~0~A~end~~~#0000FF^^0~16~-1~0~2~start~~~#0000FF^^0~13~0^^0~M 10 -3 L 7 0 L 10 3",
+    "P~show~0~1~-15~0~180~gge16~0^^-15~0^^M -15 0 h 15~#880000^^0~3~3~0~C~start~~~#0000FF^^0~-6~-1~0~1~end~~~#0000FF^^0~-3~0^^0~M 0 3 L 3 0 L 0 -3",
+    "PT~M 10 -6 L 0 0 L 10 7 Z ~#880000~1~0~#880000~gge24~0~",
+    "PL~0 -5 0 5~#880000~1~0~none~gge26~0"
+  ],
+  "BBox": {
+    "x": -16,
+    "y": -6,
+    "width": 42,
+    "height": 13
+  },
+  "colors": {}
+}
